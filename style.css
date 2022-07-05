@@ -1,0 +1,172 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.first-benner {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.help {
+    text-align: center;
+    padding: 200px;
+    color: aliceblue;
+    font-weight: bold;
+}
+
+.help h1 {
+    font-size: 45px;
+}
+
+.help p {
+    color: rgb(211, 208, 208);
+    margin-bottom: 50px;
+}
+
+.prymry-button {
+    padding: 20px 30px;
+    background-color: rgb(241, 88, 16);
+    text-decoration: none;
+    color: black;
+    border-radius: 10px;
+}
+
+.donate {
+    padding: 200px;
+    text-align: center;
+}
+
+.donate h1 {
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+
+.donate p {
+    color: rgb(126, 104, 104);
+    margin-bottom: 50px;
+}
+
+.donate-tk {
+    display: flex;
+    margin-left: 30px;
+}
+
+.donate-tk h2 {
+    padding: 30px;
+    margin: 10px;
+    background-color: aliceblue;
+}
+
+.donate-now p {
+    margin-bottom: 50px;
+    color: gainsboro;
+}
+
+#select-tk {
+    background-color: rgba(231, 71, 71, 0.151);
+    color: red;
+    border-style: solid;
+    border-color: red;
+}
+
+.plan-donate {
+    text-align: center;
+
+
+}
+
+.donete-section {
+    display: flex;
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 60px;
+}
+
+.donete-plan {
+    width: 33%;
+    padding: 30px;
+    margin: 10px;
+    border-radius: 30px;
+    margin-bottom: 200px;
+}
+
+.donete-plan img {
+    margin-top: 30px;
+}
+
+#food-femaly {
+    background-color: azure;
+}
+
+#shelter-femaly {
+
+    background-color: aqua;
+}
+
+#education-chaild {
+    background-color: bisque;
+}
+
+.news {
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 200px;
+    box-shadow: 20px 30px 60px gray;
+    padding: 50px 30px;
+}
+
+.today-news {
+    width: 40%;
+    margin-left: 30px;
+
+}
+
+.today-news img {
+    width: 100%;
+    margin-left: 40px;
+}
+
+.today-news p {
+    color: rgb(0, 0, 0);
+    margin-bottom: 50px;
+}
+
+.secund-button {
+    text-decoration: none;
+    color: black;
+    padding: 15px 30px;
+    box-shadow: 20px 20px 50px gray;
+}
+
+.updates {
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 200px;
+}
+
+.updates input {
+    padding: 10px;
+}
+
+#submit {
+    width: 120px;
+    background-color: red;
+    margin-right: 20px;
+}
+
+.surch-email {
+    padding: 80px;
+    background-color: bisque;
+}
+
+footer {
+    background: black;
+    padding: 50px;
+    text-align: center;
+    color: wheat;
+}
